@@ -83,15 +83,6 @@ Scrapes Craigslist search results for the post id, date, title, price, location,
 
 <br /> 
 
-## Version History
-
-* 1.0.0
-    * Initial Release
-
-
-<br /> 
-
-
 ## License
 
 [MIT](https://github.com/cencarnado/craigslist-scraper-ms/blob/main/LICENSE)
