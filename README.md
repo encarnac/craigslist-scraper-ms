@@ -18,58 +18,58 @@ Scrapes Craigslist search results for the post id, date, title, price, location,
 1. Clone repository
       ```sh
 
-          $ git clone https://github.com/cencarnado/craigslist-scraper-ms.git
-          $ cd craigslist-scraper-ms
+        $ git clone https://github.com/cencarnado/craigslist-scraper-ms.git
+        $ cd craigslist-scraper-ms
 
       ```
 
 2. Create a virtual environment
-      ```ps
+      ```sh
 
-          $ craigslist-scraper-ms> python -m venv venv
+        $ craigslist-scraper-ms> python -m venv venv
 
       ```
 
 3. Activate your virtual environment
-      ```ps
+      ```sh
 
-          $ craigslist-scraper-ms> venv\Scripts\Activate.ps1
+        $ craigslist-scraper-ms> venv\Scripts\Activate.ps1
 
       ```
 
 4. Install all dependencies 
-      ```ps
+      ```sh
 
-          $ (venv) craigslist-scraper-ms> python -m pip install -r  ./requirements.txt
+        $ (venv) craigslist-scraper-ms> python -m pip install -r  ./requirements.txt
 
       ```
 
 ### How to Use
 
 1. Run the script `cl_scraper.py`
-    ```ps
+    ```sh
 
-        $ (venv) craigslist-scraper-ms> python cl_scraper.py
+      $ (venv) craigslist-scraper-ms> python cl_scraper.py
 
     ```
 
 2. Paste the Craigslist URL for the search results you want to scrape in `cl_search.txt`
 
 
-    `cl_search.txt :`
+    **cl_search.txt :**
     
-    ```ps
+    ```sh
 
 
-      1  https://losangeles.craigslist.org/search/sss?query=holland+lop&hasPic=1&postedToday=1&max_price=200
+    1  https://losangeles.craigslist.org/search/sss?query=holland+lop&hasPic=1&postedToday=1&max_price=200
 
-  ```
+    ```
     
 3. View all the data in `cl_results.txt` as a dataframe
 
 
-   `cl_results.txt :`
-    ```ps
+   **cl_results.txt :**
+    ```sh
 
     1  post_id,     date,               title,        price,   location,      post-url,         photo
     2  1234567890,  2022-05-21 16:13,   holland lop,  $65,     Los Angeles,   http://...html,   http://...jpg
@@ -77,7 +77,7 @@ Scrapes Craigslist search results for the post id, date, title, price, location,
     .. 
     9  0987654321,  2022-05-21 16:39,   bunnies,      $75,      ,             http://...html,   http://...jpg
 
-    ```
+   ```
 
 <br /> 
 
