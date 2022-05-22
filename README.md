@@ -75,7 +75,6 @@ Microservice that scrapes Craigslist search results for the post id, date, title
 
     1  post_id,     date,               title,        price,   location,      post-url,         photo
     2  1234567890,  2022-05-21 16:13,   holland lop,  $65,     Los Angeles,   http://...html,   http://...jpg
-    3 ...
     .. 
     9  0987654321,  2022-05-21 16:39,   bunnies,      $75,      ,             http://...html,   http://...jpg
 
