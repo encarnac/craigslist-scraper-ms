@@ -1,9 +1,0 @@
-post_id,date,title,price,location,post-url,photo
-7486705141,2022-05-21 16:13,holland lop,$65,Los Angeles,
-7486632100,2022-05-21 13:00,Holland lop baby bunnies,$150,Brea,https://losangeles.craigslist.org/sgv/grq/d/brea-holland-lop-baby-bunnies/7486632100.html,https://images.craigslist.org/00Q0Q_ceBjxEBdv16z_1320MM_300x300.jpg
-7486599693,2022-05-21 11:55,Holland Lop Bunnies READY,$75,Woodland Hills,https://losangeles.craigslist.org/sfv/for/d/woodland-hills-holland-lop-bunnies-ready/7486599693.html,https://images.craigslist.org/00g0g_ehje22WVPxhz_0lM0t2_300x300.jpg
-7486359163,2022-05-20 19:30,Holland lop baby bunnies,$150,Brea,https://losangeles.craigslist.org/lgb/grq/d/brea-holland-lop-baby-bunnies/7486359163.html,https://images.craigslist.org/00y0y_hyg3IQl1zObz_1320MM_300x300.jpg
-7486716692,2022-05-21 16:50,Holland Lop male bunny rabbit,$75,,https://inlandempire.craigslist.org/grd/d/lake-elsinore-holland-lop-male-bunny/7486716692.html,https://images.craigslist.org/01212_4GgJoMM4773z_0t20CI_300x300.jpg
-7486353670,2022-05-20 19:06,Holland lop baby bunnies,$150,,https://orangecounty.craigslist.org/grq/d/brea-holland-lop-baby-bunnies/7486353670.html,https://images.craigslist.org/00w0w_lX0GSCbkXhRz_1320MM_300x300.jpg
-7486319388,2022-05-20 17:21,holland lop bunnies,$75,,https://inlandempire.craigslist.org/grd/d/homeland-holland-lop-bunnies/7486319388.html,https://images.craigslist.org/00606_dwwxTTaKgLPz_0Aw0CI_300x300.jpg
-7486713261,2022-05-21 16:39,bunnies,$75,,https://inlandempire.craigslist.org/for/d/menifee-bunnies/7486713261.html,https://images.craigslist.org/01414_85yipqoa52Iz_0CI0t2_300x300.jpg
