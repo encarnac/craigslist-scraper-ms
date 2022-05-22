@@ -92,6 +92,6 @@ Scrapes Craigslist search results for the post id, date, title, price, location,
 
 ## License
 
-[MIT]()
+[MIT](https://github.com/cencarnado/craigslist-scraper-ms/blob/main/LICENSE)
         
 
