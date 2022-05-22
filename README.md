@@ -2,7 +2,7 @@
 
 
 ## Description
-Scrapes Craigslist search results for the post id, date, title, price, location, post url, and photo url of all listings and stores the data in a .txt file.
+Microservice that scrapes Craigslist search results for the post id, date, title, price, location, post url, and photo url of all listings and stores the data in a .txt file.
   
 <br /> 
 
