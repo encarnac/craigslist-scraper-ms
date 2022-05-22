@@ -85,7 +85,7 @@ Scrapes Craigslist search results for the post id, date, title, price, location,
 
 ## Version History
 
-* 0.1
+* 1.0.0
     * Initial Release
 
 
