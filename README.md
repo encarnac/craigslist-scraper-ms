@@ -20,7 +20,7 @@ Microservice that scrapes Craigslist search results for the post id, date, title
 1. Clone repository
     ```sh
 
-      $ git clone https://github.com/cencarnado/craigslist-scraper-ms.git
+      $ git clone https://github.com/encarnac/craigslist-scraper-ms.git
       $ cd craigslist-scraper-ms
 
     ```
