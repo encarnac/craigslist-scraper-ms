@@ -59,11 +59,11 @@ Scrapes Craigslist search results for the post id, date, title, price, location,
     `cl_search.txt :`
     
     ```ps
-    
 
-        1  https://losangeles.craigslist.org/search/sss?query=holland+lop&hasPic=1&postedToday=1&max_price=200
 
-    ```
+      1  https://losangeles.craigslist.org/search/sss?query=holland+lop&hasPic=1&postedToday=1&max_price=200
+
+  ```
     
 3. View all the data in `cl_results.txt` as a dataframe
 
@@ -71,13 +71,13 @@ Scrapes Craigslist search results for the post id, date, title, price, location,
    `cl_results.txt :`
     ```ps
 
-      1  post_id,     date,               title,        price,   location,      post-url,         photo
-      2  1234567890,  2022-05-21 16:13,   holland lop,  $65,     Los Angeles,   http://...html,   http://...jpg
-      3 ...
-      .. 
-      9  0987654321,  2022-05-21 16:39,   bunnies,      $75,      ,             http://...html,   http://...jpg
+    1  post_id,     date,               title,        price,   location,      post-url,         photo
+    2  1234567890,  2022-05-21 16:13,   holland lop,  $65,     Los Angeles,   http://...html,   http://...jpg
+    3 ...
+    .. 
+    9  0987654321,  2022-05-21 16:39,   bunnies,      $75,      ,             http://...html,   http://...jpg
 
-      ```
+    ```
 
 <br /> 
 
