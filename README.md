@@ -16,33 +16,33 @@ Scrapes Craigslist search results for the post id, date, title, price, location,
 ### How to Install
 
 1. Clone repository
-      ```sh
+    ```sh
 
-        $ git clone https://github.com/cencarnado/craigslist-scraper-ms.git
-        $ cd craigslist-scraper-ms
+      $ git clone https://github.com/cencarnado/craigslist-scraper-ms.git
+      $ cd craigslist-scraper-ms
 
-      ```
+    ```
 
 2. Create a virtual environment
-      ```sh
+    ```sh
 
-        $ craigslist-scraper-ms> python -m venv venv
+      $ craigslist-scraper-ms> python -m venv venv
 
-      ```
+    ```
 
 3. Activate your virtual environment
-      ```sh
+    ```sh
 
-        $ craigslist-scraper-ms> venv\Scripts\Activate.ps1
+      $ craigslist-scraper-ms> venv\Scripts\Activate.ps1
 
-      ```
+    ```
 
 4. Install all dependencies 
-      ```sh
+    ```sh
 
-        $ (venv) craigslist-scraper-ms> python -m pip install -r  ./requirements.txt
+      $ (venv) craigslist-scraper-ms> python -m pip install -r  ./requirements.txt
 
-      ```
+    ```
 
 ### How to Use
 
